@@ -1,0 +1,7 @@
+ipython
+pandas
+vdom
+matplotlib
+jupyterlab_launcher>0.5.5
+scipy
+
